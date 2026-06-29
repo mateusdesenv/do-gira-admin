@@ -49,4 +49,3 @@ npm run dev
 ```
 
 Este pacote não inclui `node_modules`, `dist` nem `package-lock.json`. A instalação deve usar o registry público definido no arquivo `.npmrc`.
-# do-gira-admin
