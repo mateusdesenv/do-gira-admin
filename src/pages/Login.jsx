@@ -1,4 +1,4 @@
-import logo from '../assets/logo-do-gira.png';
+import logo from '../assets/logo-do-gira.webp';
 
 export function Login({ onLogin }) {
   function handleSubmit(event) {

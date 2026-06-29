@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import logo from '../assets/logo-do-gira.png';
+import logo from '../assets/logo-do-gira.webp';
 
 const menuItems = [
   { id: 'service', label: 'Atendimento', icon: '◈' },
